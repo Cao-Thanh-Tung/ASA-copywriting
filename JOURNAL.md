@@ -19,19 +19,19 @@
 
 ## 📅 Lịch Sử Các Buổi Học & Làm Việc (Session Logs)
 
-### 🟢 Buổi 1: Khởi Tạo Dự Án & Thiết Lập Hệ Thống Học Tập
+### 🟢 Buổi 1: Khởi Tạo Dự Án & Định Hướng Toàn Cảnh Về Copywriting
 - **Thời gian:** 20/10/2026
 - **Mục tiêu:**
   - Thiết lập kho lưu trữ tài liệu chuẩn hóa trên Git / GitHub để học mọi lúc mọi nơi.
   - Xây dựng cấu trúc thư mục học tập bài bản (`docs/01-nen-tang`, `docs/02-cong-thuc`, `docs/03-thuc-hanh`, `docs/swipe-file`).
-  - Lập nhật ký theo dõi tiến trình học tập (`JOURNAL.md`).
+  - Nắm được bức tranh tổng quan về Copywriting (Khác biệt Content vs Copy, Cỗ máy 4 bước tâm lý Hook - Story - Offer - CTA).
 - **Nội dung đã hoàn thành:**
   - [x] Tạo khung làm việc và tài liệu định hướng tổng quan.
-  - [x] Soạn thảo hướng dẫn tổng quan về bản chất Copywriting và các công thức nền tảng (AIDA, PAS, FAB...).
-  - [x] Thiết lập hướng dẫn đẩy mã nguồn lên GitHub.
-  - [x] Kết nối thành công repository GitHub (`Cao-Thanh-Tung/ASA-copywriting`) và kiểm tra tự động pull/push.
+  - [x] Soạn thảo hướng dẫn tổng quan về bản chất Copywriting và các công thức nền tảng.
+  - [x] Thiết lập và kiểm tra tự động hóa đồng bộ GitHub (`Cao-Thanh-Tung/ASA-copywriting`).
+  - [x] Định hình phương pháp học gia sư 1-1, học đến đâu output đến đó.
 - **Kế hoạch buổi tiếp theo:**
-  - Bắt đầu tìm hiểu sâu về: **Tâm lý học hành vi trong Copywriting** và **Cách vẽ chân dung khách hàng mục tiêu (Customer Persona & Pain Points)**.
+  - Lựa chọn hướng đi chuyên sâu bước đầu: Đi sâu vào Tâm lý học người mua (Pain Point, Desire) hay các Bộ công thức viết sẵn.
 
 ---
 

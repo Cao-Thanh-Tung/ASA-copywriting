@@ -29,6 +29,7 @@
   - [x] Tạo khung làm việc và tài liệu định hướng tổng quan.
   - [x] Soạn thảo hướng dẫn tổng quan về bản chất Copywriting và các công thức nền tảng (AIDA, PAS, FAB...).
   - [x] Thiết lập hướng dẫn đẩy mã nguồn lên GitHub.
+  - [x] Kết nối thành công repository GitHub (`Cao-Thanh-Tung/ASA-copywriting`) và kiểm tra tự động pull/push.
 - **Kế hoạch buổi tiếp theo:**
   - Bắt đầu tìm hiểu sâu về: **Tâm lý học hành vi trong Copywriting** và **Cách vẽ chân dung khách hàng mục tiêu (Customer Persona & Pain Points)**.
 

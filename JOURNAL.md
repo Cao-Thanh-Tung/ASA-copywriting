@@ -31,8 +31,9 @@
   - [x] Thiết lập và kiểm tra tự động hóa đồng bộ GitHub (`Cao-Thanh-Tung/ASA-copywriting`).
   - [x] **Xác lập Bản Tuyên Ngôn Tư Duy Copywriting Thời Đại Mới**: Định hình chân dung Full-Stack Copywriter, vai trò của AI, quyền lực thao túng/thuyết phục hành vi và tâm thế học tập cốt lõi ([docs/01-nen-tang/tu-duy-thoi-dai-moi.md](docs/01-nen-tang/tu-duy-thoi-dai-moi.md)).
   - [x] **Xây dựng Nền tảng Khoa học Thực nghiệm (Đập tan ngụy khoa học & ảo tưởng trend)**: Phản biện tư duy nhà máy cơ học vs hệ thống thị trường bất định; Thuật toán thu hẹp không gian tìm kiếm thay cho Brute force; Quản trị rủi ro & chứng minh giá trị bằng số liệu A/B Testing ([docs/01-nen-tang/tu-duy-khoa-hoc-vs-ao-tuong.md](docs/01-nen-tang/tu-duy-khoa-hoc-vs-ao-tuong.md)).
+  - [x] **Thiết lập Khung Năng Lực Đầu Tư & Quy Trình 4 Bước Đảm Bảo Tỷ Lệ Thắng (The Win-Rate Framework)**: Định vị Copywriter như một tài sản đầu tư tạo ROI dương; Quy trình 4 bước từ Đào mỏ dữ liệu ➔ Cô lập nút thắt ➔ Dựng giả thuyết ➔ Viết đối ứng & Triệt tiêu rủi ro ([docs/01-nen-tang/quy-trinh-dam-bao-ty-le-thang.md](docs/01-nen-tang/quy-trinh-dam-bao-ty-le-thang.md)).
 - **Kế hoạch buổi tiếp theo:**
-  - Bắt tay vào quy trình thực tế: **Cách "đào mỏ" dữ liệu thật của khách hàng** (Review mining, Search intent) để xác định đúng "vùng đất hứa" mà không cần đoán mò.
+  - Bắt tay vào làm một case study thực chiến mô phỏng: Thực hành "Đào mỏ dữ liệu thô" từ một sản phẩm thực tế để cô lập nút thắt số 1.
 
 ---
 

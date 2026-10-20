@@ -29,9 +29,9 @@
   - [x] Tạo khung làm việc và tài liệu định hướng tổng quan.
   - [x] Soạn thảo hướng dẫn tổng quan về bản chất Copywriting và các công thức nền tảng.
   - [x] Thiết lập và kiểm tra tự động hóa đồng bộ GitHub (`Cao-Thanh-Tung/ASA-copywriting`).
-  - [x] Định hình phương pháp học gia sư 1-1, học đến đâu output đến đó.
+  - [x] **Xác lập Bản Tuyên Ngôn Tư Duy Copywriting Thời Đại Mới**: Định hình chân dung Full-Stack Copywriter, vai trò của AI, quyền lực thao túng/thuyết phục hành vi và tâm thế học tập cốt lõi ([docs/01-nen-tang/tu-duy-thoi-dai-moi.md](docs/01-nen-tang/tu-duy-thoi-dai-moi.md)).
 - **Kế hoạch buổi tiếp theo:**
-  - Lựa chọn hướng đi chuyên sâu bước đầu: Đi sâu vào Tâm lý học người mua (Pain Point, Desire) hay các Bộ công thức viết sẵn.
+  - Bắt đầu mổ xẻ **Cơ chế tâm lý ra quyết định của con người**: 2 hệ thống tư duy (System 1 & System 2) và 8 Động lực nguyên thủy (Life-Force 8) điều khiển mọi hành vi mua hàng.
 
 ---
 

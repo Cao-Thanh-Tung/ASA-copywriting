@@ -30,8 +30,9 @@
   - [x] Soạn thảo hướng dẫn tổng quan về bản chất Copywriting và các công thức nền tảng.
   - [x] Thiết lập và kiểm tra tự động hóa đồng bộ GitHub (`Cao-Thanh-Tung/ASA-copywriting`).
   - [x] **Xác lập Bản Tuyên Ngôn Tư Duy Copywriting Thời Đại Mới**: Định hình chân dung Full-Stack Copywriter, vai trò của AI, quyền lực thao túng/thuyết phục hành vi và tâm thế học tập cốt lõi ([docs/01-nen-tang/tu-duy-thoi-dai-moi.md](docs/01-nen-tang/tu-duy-thoi-dai-moi.md)).
+  - [x] **Xây dựng Nền tảng Khoa học Thực nghiệm (Đập tan ngụy khoa học & ảo tưởng trend)**: Phản biện tư duy nhà máy cơ học vs hệ thống thị trường bất định; Thuật toán thu hẹp không gian tìm kiếm thay cho Brute force; Quản trị rủi ro & chứng minh giá trị bằng số liệu A/B Testing ([docs/01-nen-tang/tu-duy-khoa-hoc-vs-ao-tuong.md](docs/01-nen-tang/tu-duy-khoa-hoc-vs-ao-tuong.md)).
 - **Kế hoạch buổi tiếp theo:**
-  - Bắt đầu mổ xẻ **Cơ chế tâm lý ra quyết định của con người**: 2 hệ thống tư duy (System 1 & System 2) và 8 Động lực nguyên thủy (Life-Force 8) điều khiển mọi hành vi mua hàng.
+  - Bắt tay vào quy trình thực tế: **Cách "đào mỏ" dữ liệu thật của khách hàng** (Review mining, Search intent) để xác định đúng "vùng đất hứa" mà không cần đoán mò.
 
 ---
 

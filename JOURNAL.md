@@ -63,6 +63,22 @@
 
 ---
 
+### 🟢 Buổi 3: Ôn Tập Nền Tảng & Khảo Sát Bức Tranh Thị Trường B2B SaaS Copywriting
+- **Thời gian:** 26/10/2026
+- **Mục tiêu buổi học:**
+  - [x] Kiểm tra phản xạ tư duy tâm lý học: Bản chất khách hàng ghét bị bán hàng nhưng mê cảm giác mua hời (Grand Slam Offer & Risk Reversal).
+  - [x] Phân tích hoài nghi thị trường: Sự đe dọa của AI & Big Tech đối với các công ty nhỏ và cơ hội của Freelancer.
+  - [x] Làm rõ bức tranh thị trường Copywriting SaaS quốc tế những năm gần đây (sự phân cực giữa Low-end bị AI quét sạch vs High-end Conversion Copywriting bùng nổ).
+- **Kiến thức cốt lõi & Nhận thức đột phá (Key Takeaways):**
+  - **Quy luật chi phí cận biên bằng 0:** AI giúp ai cũng code được phần mềm rẻ đi 100 lần -> Thị trường ngập lụt phần mềm na ná nhau -> **Lòng tin (Trust) và Định vị (Positioning) trở thành tài sản đắt đỏ nhất**.
+  - **Sân chơi "Micro-SaaS":** Có hơn 30.000+ công ty SaaS trên thế giới; họ vô hình với người dùng phổ thông nhưng kiếm hàng chục ngàn USD/tháng từ các thị trường ngách sâu (Vertical SaaS).
+  - **Bài toán xác suất 50 triệu/tháng:** Không cần 100 khách hàng, chỉ cần **đúng 2 khách hàng** ký hợp đồng Retainer ($1,000/tháng mỗi bên) trên tổng số hàng vạn công ty = Tỷ lệ 0.00001% thị trường.
+  - **Lợi thế Unfair Advantage của cựu Web Dev:** Hiểu rõ developer pain, tech stack, API, UX để làm "Cầu nối giá trị" (Value Translator) giữa Founder kỹ thuật và khách hàng doanh nghiệp trả tiền.
+- **Kế hoạch buổi tiếp theo:**
+  - Bắt đầu Giai đoạn 2: Luyện tập Voice of Customer (VoC) và mổ xẻ Landing Page của 1 sản phẩm Micro-SaaS thực tế bằng Tiếng Anh song ngữ.
+
+---
+
 ### 📝 Mẫu Ghi Chép Cho Các Buổi Tiếp Theo (Template)
 *(Copy mẫu dưới đây để ghi chép cho mỗi buổi làm việc)*
 

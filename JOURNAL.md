@@ -79,6 +79,27 @@
 
 ---
 
+### 🟢 Buổi 4: Ôn Tập Bài Học Trương Phương & Đột Phá Quy Trình 80% Research (VoC)
+- **Thời gian:** 28/10/2026
+- **Mục tiêu buổi học:**
+  - [x] Ôn tập triệt để 4 câu hỏi tư duy (Tâm lý học hành vi, Sự phân cực thời đại AI, Thị trường B2B SaaS Retainer, Unfair Advantage của Web Dev).
+  - [x] Tổng hợp bài học cốt lõi từ các video của Trương Phương:
+    - Copywriting là kỹ năng thiết kế thông điệp điều khiển hành vi, ads/email/page chỉ là kênh chứa.
+    - Cấu trúc 5 bước bất biến: Tò mò ➔ Điểm đau ➔ Niềm tin ➔ Giải pháp ➔ Kêu gọi hành động.
+    - Công thức thành công: "Viết chỉ chiếm 20%, Research chiếm 80%".
+    - Sự lì lợm và tính kỷ luật (3-4 tiếng/ngày, kiên trì vượt qua tháng đầu tiên 0 khách hàng).
+  - [x] Định hình quy trình Research 80% thực chiến cho sản phẩm công nghệ (VoC):
+    - Tự đóng vai người dùng để trải nghiệm luồng sản phẩm và đối thủ (Product/UX mindset).
+    - Feedback ngược lại cho kỹ thuật/founder để cải thiện sản phẩm.
+    - Mỏ vàng cào Voice of Customer (VoC): Đọc review 2-sao và 3-sao trên G2.com, Capterra.com; "nằm vùng" thảo luận trên Reddit (r/SaaS, r/webdev...).
+- **Kiến thức cốt lõi & Nhận thức đột phá (Key Takeaways):**
+  - Không tự bịa ra chữ: Lượm lặt nỗi đau và từ ngữ nguyên bản của người dùng (VoC) từ review 2-3 sao để đưa thẳng vào Headline và thông điệp.
+  - Vị thế "Value Translator" & "Growth Consultant": Vừa tối ưu chuyển đổi bằng ngôn từ chính xác không nói quá, vừa phân tích dữ liệu rớt bước (drop-off) để phản hồi cho dev.
+- **Kế hoạch buổi tiếp theo:**
+  - Thực hành phân tích 1 Landing Page SaaS thực tế + Cào VoC từ G2/Reddit bằng Tiếng Anh song ngữ.
+
+---
+
 ### 📝 Mẫu Ghi Chép Cho Các Buổi Tiếp Theo (Template)
 *(Copy mẫu dưới đây để ghi chép cho mỗi buổi làm việc)*
 
